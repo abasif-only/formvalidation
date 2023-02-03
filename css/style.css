@@ -1,0 +1,44 @@
+.container{
+	overflow: hidden;
+}
+.teal{
+	background-color: teal;
+}
+.logo{
+	margin: 10px 0;
+	width: 8%;
+	float: left;
+}
+.logo img{
+	width: 100%;
+
+}
+.menu{
+	width: 40%;
+	float: right;
+}
+.menu ul{
+	float: right;
+}
+.menu ul li{
+	margin: 35px 10px;
+	list-style: none;
+	float: left;
+}
+.menu ul li a {
+	margin: 15px 0;
+	font-family: sans-serif;
+	font-size: 15px;
+	font-weight: 300;
+	color: black;
+	text-decoration: none;
+}
+.menu ul li a:hover{
+	color: blue;
+}
+.form1{
+	padding: 70px 40px;
+}
+.button{
+	margin: 50px 600px;
+}
